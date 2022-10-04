@@ -7,6 +7,9 @@ function App() {
   return (
     <div className="App">
       <Counter/>
+      <br/>
+      <br/>
+      <br/>
       <Todo/>
     </div>
   );
